@@ -40,7 +40,7 @@ class Movie(models.Model):
     runtime = models.IntegerField()
     difficulty = models.FloatField(default=0)
     release_date = models.DateField()
-    languages = models.ManyToManyField(Language, related_name="used_languages")
+    languages = models.ManyToManyField(MovieLanguage, related_name="used_languages")
     starrings = models.ManyToManyField(Stars, related_name="stared_movie")
     genres = models.ManyToManyField(Genre, related_name="included_movies")
     otts = models.ManyToManyField(Ott, related_name="provide_movies")
