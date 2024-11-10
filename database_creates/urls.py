@@ -5,4 +5,5 @@ from . import views
 urlpatterns = [
     path("genre/", views.get_genre),
     path("movie-language/", views.get_movie_language),
+    path("stars/", views.get_stars),
 ]
