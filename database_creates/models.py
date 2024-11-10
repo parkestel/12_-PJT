@@ -3,7 +3,7 @@ from django.db import models
 
 # Create your models here.
 class MovieLanguage:
-    tmdb_id = models.IntegerField()
+    iso_code = models.TextField()
     name = models.TextField()
 
 
