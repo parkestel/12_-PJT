@@ -1,27 +1,34 @@
 from django.db import models
 
+
 # Create your models here.
-class Language():
+class MovieLanguage:
     tmdb_id = models.IntegerField()
     name = models.TextField()
 
-class Stars():
+
+class Stars:
     tmdb_id = models.IntegerField()
     name = models.TextField()
 
-class Genre():
+
+class Genre:
     tmdb_id = models.IntegerField()
     name = models.TextField()
 
-class Ott():
+
+class Ott:
     tmdb_id = models.IntegerField()
     name = models.TextField()
 
-class Director():
+
+class Director:
     name = models.TextField()
 
-class Education():
+
+class Education:
     tmdb_id = models.IntegerField()
+
 
 class Movie(models.Model):
     tmdb_id = models.IntegerField()
@@ -39,6 +46,3 @@ class Movie(models.Model):
     otts = models.ManyToManyField(Ott, related_name="provide_movies")
     directors = models.ManyToManyField(Director, related_name="directed_movies")
     is_for_education = models.BooleanField(default=False)
-
-
-
