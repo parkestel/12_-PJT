@@ -6,7 +6,7 @@ from .models import Movie, Genre, Star, Ott
 from django.http import JsonResponse
 import logging
 
-API_KEY = '39c9908752032848483d2c4bbb58a1ec'
+API_KEY = 'my key'
 API_URL = 'https://api.themoviedb.org/3/'
 MOVIE_URL = f'{API_URL}movie/popular?api_key={API_KEY}'
 GENRE_URL = f'{API_URL}genre/movie/list?api_key={API_KEY}'
