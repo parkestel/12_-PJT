@@ -1,0 +1,262 @@
+[
+{
+    "model": "movies.movie",
+    "pk": 1,
+    "fields": {
+        "tmdb_id": 912649,
+        "title": "Venom: The Last Dance",
+        "rank": 6.394,
+        "release_date": "2024-10-22",
+        "summary": "Eddie and Venom are on the run. Hunted by both of their worlds and with the net closing in, the duo are forced into a devastating decision that will bring the curtains down on Venom and Eddie's last dance.",
+        "poster_path": "/aosm8NMQ3UyoBVpSxyimorCQykC.jpg",
+        "is_adult": false
+    }
+},
+{
+    "model": "movies.movie",
+    "pk": 2,
+    "fields": {
+        "tmdb_id": 1034541,
+        "title": "Terrifier 3",
+        "rank": 6.934,
+        "release_date": "2024-10-09",
+        "summary": "Five years after surviving Art the Clown's Halloween massacre, Sienna and Jonathan are still struggling to rebuild their shattered lives. As the holiday season approaches, they try to embrace the Christmas spirit and leave the horrors of the past behind. But just when they think they're safe, Art returns, determined to turn their holiday cheer into a new nightmare. The festive season quickly unravels as Art unleashes his twisted brand of terror, proving that no holiday is safe.",
+        "poster_path": "/l1175hgL5DoXnqeZQCcU3eZIdhX.jpg",
+        "is_adult": false
+    }
+},
+{
+    "model": "movies.movie",
+    "pk": 3,
+    "fields": {
+        "tmdb_id": 1118031,
+        "title": "Apocalypse Z: The Beginning of the End",
+        "rank": 6.8,
+        "release_date": "2024-10-04",
+        "summary": "When a kind of rabies that transforms people into aggressive creatures spreads across the planet, Manel isolates himself at home with his cat, relying on his wits to survive; but soon they must go out in search of food, by land and by sea, dodging many dangers.",
+        "poster_path": "/wIGJnIFQlESkC2rLpfA8EDHqk4g.jpg",
+        "is_adult": false
+    }
+},
+{
+    "model": "movies.movie",
+    "pk": 4,
+    "fields": {
+        "tmdb_id": 1184918,
+        "title": "The Wild Robot",
+        "rank": 8.492,
+        "release_date": "2024-09-12",
+        "summary": "After a shipwreck, an intelligent robot called Roz is stranded on an uninhabited island. To survive the harsh environment, Roz bonds with the island's animals and cares for an orphaned baby goose.",
+        "poster_path": "/wTnV3PCVW5O92JMrFvvrRcV39RU.jpg",
+        "is_adult": false
+    }
+},
+{
+    "model": "movies.movie",
+    "pk": 5,
+    "fields": {
+        "tmdb_id": 533535,
+        "title": "Deadpool & Wolverine",
+        "rank": 7.707,
+        "release_date": "2024-07-24",
+        "summary": "A listless Wade Wilson toils away in civilian life with his days as the morally flexible mercenary, Deadpool, behind him. But when his homeworld faces an existential threat, Wade must reluctantly suit-up again with an even more reluctant Wolverine.",
+        "poster_path": "/8cdWjvZQUExUUTzyp4t6EDMubfO.jpg",
+        "is_adult": false
+    }
+},
+{
+    "model": "movies.movie",
+    "pk": 6,
+    "fields": {
+        "tmdb_id": 933260,
+        "title": "The Substance",
+        "rank": 7.3,
+        "release_date": "2024-09-07",
+        "summary": "A fading celebrity decides to use a black market drug, a cell-replicating substance that temporarily creates a younger, better version of herself.",
+        "poster_path": "/lqoMzCcZYEFK729d6qzt349fB4o.jpg",
+        "is_adult": false
+    }
+},
+{
+    "model": "movies.movie",
+    "pk": 7,
+    "fields": {
+        "tmdb_id": 698687,
+        "title": "Transformers One",
+        "rank": 8.1,
+        "release_date": "2024-09-11",
+        "summary": "The untold origin story of Optimus Prime and Megatron, better known as sworn enemies, but once were friends bonded like brothers who changed the fate of Cybertron forever.",
+        "poster_path": "/qrwI2T844nrBUv3eDwQZRDdgSFs.jpg",
+        "is_adult": false
+    }
+},
+{
+    "model": "movies.movie",
+    "pk": 8,
+    "fields": {
+        "tmdb_id": 845781,
+        "title": "Red One",
+        "rank": 6.7,
+        "release_date": "2024-10-31",
+        "summary": "After Santa Claus (codename: Red One) is kidnapped, the North Pole's Head of Security must team up with the world's most infamous bounty hunter in a globe-trotting, action-packed mission to save Christmas.",
+        "poster_path": "/cdqLnri3NEGcmfnqwk2TSIYtddg.jpg",
+        "is_adult": false
+    }
+},
+{
+    "model": "movies.movie",
+    "pk": 9,
+    "fields": {
+        "tmdb_id": 945961,
+        "title": "Alien: Romulus",
+        "rank": 7.3,
+        "release_date": "2024-08-13",
+        "summary": "While scavenging the deep ends of a derelict space station, a group of young space colonizers come face to face with the most terrifying life form in the universe.",
+        "poster_path": "/b33nnKl1GSFbao4l3fZDDqsMx0F.jpg",
+        "is_adult": false
+    }
+},
+{
+    "model": "movies.movie",
+    "pk": 10,
+    "fields": {
+        "tmdb_id": 1051896,
+        "title": "Arcadian",
+        "rank": 6.0,
+        "release_date": "2024-04-12",
+        "summary": "In the near future, on a decimated Earth, Paul and his twin sons face terror at night when ferocious creatures awaken. When Paul is nearly killed, the boys come up with a plan for survival, using everything their father taught them to keep him alive.",
+        "poster_path": "/spWV1eRzlDxvai8LbxwAWR0Vst4.jpg",
+        "is_adult": false
+    }
+},
+{
+    "model": "movies.movie",
+    "pk": 11,
+    "fields": {
+        "tmdb_id": 1116490,
+        "title": "Cash Out",
+        "rank": 6.2,
+        "release_date": "2024-04-26",
+        "summary": "Criminal mastermind Mason is about to execute the score of a lifetime when his lover and key member of his crew, Decker, takes the team down and reveals she’s an undercover Interpol agent. Heartbroken, Mason escapes and retires from the life of crime until his younger brother Shawn is out of his league taking on a big bank heist all on his own. Mason has no choice left but to come to the rescue, while Interpol brings Decker in hoping to unnerve him. Before the SWAT teams storm the bank, Mason must use every tool in his arsenal to not only escape with the prize, but also the love of his life.",
+        "poster_path": "/xBJnIvRdL0nDHgvivr6EgBQizes.jpg",
+        "is_adult": false
+    }
+},
+{
+    "model": "movies.movie",
+    "pk": 12,
+    "fields": {
+        "tmdb_id": 558449,
+        "title": "Gladiator II",
+        "rank": 7.58,
+        "release_date": "2024-11-13",
+        "summary": "Years after witnessing the death of the revered hero Maximus at the hands of his uncle, Lucius is forced to enter the Colosseum after his home is conquered by the tyrannical Emperors who now lead Rome with an iron fist. With rage in his heart and the future of the Empire at stake, Lucius must look to his past to find strength and honor to return the glory of Rome to its people.",
+        "poster_path": "/2cxhvwyEwRlysAmRH4iodkvo0z5.jpg",
+        "is_adult": false
+    }
+},
+{
+    "model": "movies.movie",
+    "pk": 13,
+    "fields": {
+        "tmdb_id": 1084736,
+        "title": "The Count of Monte-Cristo",
+        "rank": 8.3,
+        "release_date": "2024-06-28",
+        "summary": "Edmond Dantes becomes the target of a sinister plot and is arrested on his wedding day for a crime he did not commit. After 14 years in the island prison of Château d’If, he manages a daring escape. Now rich beyond his dreams, he assumes the identity of the Count of Monte-Cristo and exacts his revenge on the three men who betrayed him.",
+        "poster_path": "/zw4kV7npGtaqvUxvJE9IdqdFsNc.jpg",
+        "is_adult": false
+    }
+},
+{
+    "model": "movies.movie",
+    "pk": 14,
+    "fields": {
+        "tmdb_id": 335983,
+        "title": "Venom",
+        "rank": 6.8,
+        "release_date": "2018-09-28",
+        "summary": "Investigative journalist Eddie Brock attempts a comeback following a scandal, but accidentally becomes the host of Venom, a violent, super powerful alien symbiote. Soon, he must rely on his newfound powers to protect the world from a shadowy organization looking for a symbiote of their own.",
+        "poster_path": "/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg",
+        "is_adult": false
+    }
+},
+{
+    "model": "movies.movie",
+    "pk": 15,
+    "fields": {
+        "tmdb_id": 519182,
+        "title": "Despicable Me 4",
+        "rank": 7.1,
+        "release_date": "2024-06-20",
+        "summary": "Gru and Lucy and their girls—Margo, Edith and Agnes—welcome a new member to the Gru family, Gru Jr., who is intent on tormenting his dad. Gru also faces a new nemesis in Maxime Le Mal and his femme fatale girlfriend Valentina, forcing the family to go on the run.",
+        "poster_path": "/wWba3TaojhK7NdycRhoQpsG0FaH.jpg",
+        "is_adult": false
+    }
+},
+{
+    "model": "movies.movie",
+    "pk": 16,
+    "fields": {
+        "tmdb_id": 889737,
+        "title": "Joker: Folie à Deux",
+        "rank": 5.6,
+        "release_date": "2024-10-01",
+        "summary": "While struggling with his dual identity, Arthur Fleck not only stumbles upon true love, but also finds the music that's always been inside him.",
+        "poster_path": "/if8QiqCI7WAGImKcJCfzp6VTyKA.jpg",
+        "is_adult": false
+    }
+},
+{
+    "model": "movies.movie",
+    "pk": 17,
+    "fields": {
+        "tmdb_id": 580489,
+        "title": "Venom: Let There Be Carnage",
+        "rank": 6.799,
+        "release_date": "2021-09-30",
+        "summary": "After finding a host body in investigative reporter Eddie Brock, the alien symbiote must face a new enemy, Carnage, the alter ego of serial killer Cletus Kasady.",
+        "poster_path": "/1MJNcPZy46hIy2CmSqOeru0yr5C.jpg",
+        "is_adult": false
+    }
+},
+{
+    "model": "movies.movie",
+    "pk": 18,
+    "fields": {
+        "tmdb_id": 1196470,
+        "title": "Survive",
+        "rank": 5.0,
+        "release_date": "2024-06-19",
+        "summary": "A couple celebrates their son’s birthday in the middle of the ocean on their boat. A violent storm hits and it brings up hungry creatures from the depths and they fight for their survival.",
+        "poster_path": "/7fR3KxswtY8OHHZuOUB9td58CRX.jpg",
+        "is_adult": false
+    }
+},
+{
+    "model": "movies.movie",
+    "pk": 19,
+    "fields": {
+        "tmdb_id": 1094974,
+        "title": "Take Cover",
+        "rank": 6.708,
+        "release_date": "2024-10-04",
+        "summary": "A burned-out professional sniper finds himself trapped in an all-glass penthouse by a lethal competitor and must find a way to survive and escape with little to no cover between him and the killer.",
+        "poster_path": "/xNLiMNyFzKTL9PVIEulG55Hei8j.jpg",
+        "is_adult": false
+    }
+},
+{
+    "model": "movies.movie",
+    "pk": 20,
+    "fields": {
+        "tmdb_id": 976734,
+        "title": "Canary Black",
+        "rank": 6.3,
+        "release_date": "2024-10-10",
+        "summary": "Top level CIA agent Avery Graves is blackmailed by terrorists into betraying her own country to save her kidnapped husband. Cut off from her team, she turns to her underworld contacts to survive and help locate the coveted intelligence that the kidnappers want.",
+        "poster_path": "/hhiR6uUbTYYvKoACkdAIQPS5c6f.jpg",
+        "is_adult": false
+    }
+}
+]
