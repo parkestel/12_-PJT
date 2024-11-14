@@ -6,4 +6,5 @@ urlpatterns = [
     path('get-genres/', views.get_genres),
     path('get-star/', views.get_star),
     path('get-ott/', views.get_ott_from_csv),
+    path('get-director/', views.get_director_from_csv),
 ]

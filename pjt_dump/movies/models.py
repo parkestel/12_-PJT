@@ -1,5 +1,6 @@
 from django.db import models
 
+
 # Create your models here.
 class Movie(models.Model):
     tmdb_id = models.IntegerField() # id
@@ -22,3 +23,8 @@ class Ott(models.Model):
     tmdb_id = models.IntegerField() # provider_id
     name = models.TextField() # provider_name
     logo_path = models.TextField() # logo_path
+    movies = models.ManyToManyField(Movie)
+
+class Director(models.Model):
+    name = models.TextField()
+    movie_ids = models.JSONField(default=list)  # 각 감독이 만든 영화의 tmdb_id를 저장할 필드
