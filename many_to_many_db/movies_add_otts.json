@@ -1,0 +1,483 @@
+[
+    {
+        "model": "movies.movie",
+        "pk": 1,
+        "fields": {
+            "tmdb_id": 354912,
+            "title": "Coco",
+            "rank": 8.21,
+            "release_date": "2017-10-27",
+            "runtime": 105,
+            "summary": "Despite his family’s baffling generations-old ban on music, Miguel dreams of becoming an accomplished musician like his idol, Ernesto de la Cruz. Desperate to prove his talent, Miguel finds himself in the stunning and colorful Land of the Dead following a mysterious chain of events. Along the way, he meets charming trickster Hector, and together, they set off on an extraordinary journey to unlock the real story behind Miguel's family history.",
+            "production": "Pixar",
+            "country": "United States of America",
+            "poster_path": "/gGEsBPAijhVUFoiNpgZXqRVWJt2.jpg",
+            "is_adult": false,
+            "difficulty": 0.0,
+            "genres": [
+                10751,
+                16,
+                10402,
+                12
+            ],
+            "otts": [
+                337
+            ]
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 2,
+        "fields": {
+            "tmdb_id": 335983,
+            "title": "Venom",
+            "rank": 6.8,
+            "release_date": "2018-09-28",
+            "runtime": 112,
+            "summary": "Investigative journalist Eddie Brock attempts a comeback following a scandal, but accidentally becomes the host of Venom, a violent, super powerful alien symbiote. Soon, he must rely on his newfound powers to protect the world from a shadowy organization looking for a symbiote of their own.",
+            "production": "Matt Tolmach Productions",
+            "country": "China",
+            "poster_path": "/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg",
+            "is_adult": false,
+            "difficulty": 0.0,
+            "genres": [
+                878,
+                28
+            ],
+            "otts": [
+                97,
+                356
+            ]
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 3,
+        "fields": {
+            "tmdb_id": 580489,
+            "title": "Venom: Let There Be Carnage",
+            "rank": 6.8,
+            "release_date": "2021-09-30",
+            "runtime": 97,
+            "summary": "After finding a host body in investigative reporter Eddie Brock, the alien symbiote must face a new enemy, Carnage, the alter ego of serial killer Cletus Kasady.",
+            "production": "Columbia Pictures",
+            "country": "United States of America",
+            "poster_path": "/1MJNcPZy46hIy2CmSqOeru0yr5C.jpg",
+            "is_adult": false,
+            "difficulty": 0.0,
+            "genres": [
+                878,
+                28,
+                12
+            ],
+            "otts": []
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 4,
+        "fields": {
+            "tmdb_id": 420634,
+            "title": "Terrifier",
+            "rank": 6.4,
+            "release_date": "2018-01-25",
+            "runtime": 85,
+            "summary": "A maniacal clown named Art terrorizes three young women on Halloween night and everyone else who stands in his way.",
+            "production": "Dark Age Cinema",
+            "country": "United States of America",
+            "poster_path": "/sFaPj5UyIAsiRuIgVl60pCYUzmR.jpg",
+            "is_adult": false,
+            "difficulty": 0.0,
+            "genres": [
+                27,
+                53
+            ],
+            "otts": []
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 5,
+        "fields": {
+            "tmdb_id": 663712,
+            "title": "Terrifier 2",
+            "rank": 6.8,
+            "release_date": "2022-10-06",
+            "runtime": 138,
+            "summary": "A year after the Miles County massacre, Art the Clown is resurrected by a sinister entity. Art returns home, where he must hunt down and destroy teenage Sienna and her younger brother Jonathan on Halloween. As the body count rises, the siblings fight to stay alive while uncovering the true nature of Art's evil intent.",
+            "production": "Dark Age Cinema",
+            "country": "United States of America",
+            "poster_path": "/8gLhu8UFPZfH2Hv11JhTZkb9CVl.jpg",
+            "is_adult": false,
+            "difficulty": 0.0,
+            "genres": [
+                27,
+                53
+            ],
+            "otts": []
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 6,
+        "fields": {
+            "tmdb_id": 86328,
+            "title": "Terrifier",
+            "rank": 6.309,
+            "release_date": "2011-08-09",
+            "runtime": 19,
+            "summary": "After witnessing a brutal murder on Halloween night, a young woman becomes the next target of a maniacal entity.",
+            "production": "D&D Films",
+            "country": "United States of America",
+            "poster_path": "/uP5k78WkCVrxrFp4AJflHbC61Ao.jpg",
+            "is_adult": false,
+            "difficulty": 0.0,
+            "genres": [
+                27
+            ],
+            "otts": []
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 7,
+        "fields": {
+            "tmdb_id": 3933,
+            "title": "Corpse Bride",
+            "rank": 7.6,
+            "release_date": "2005-09-12",
+            "runtime": 77,
+            "summary": "In a 19th-century European village, a young man about to be married is whisked away to the underworld and wed to a mysterious corpse bride, while his real bride waits bereft in the land of the living.",
+            "production": "Tim Burton Productions",
+            "country": "United Kingdom",
+            "poster_path": "/isb2Qow76GpqYmsSyfdMfsYAjts.jpg",
+            "is_adult": false,
+            "difficulty": 0.0,
+            "genres": [
+                10749,
+                14,
+                16
+            ],
+            "otts": [
+                8,
+                97,
+                1796
+            ]
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 8,
+        "fields": {
+            "tmdb_id": 231001,
+            "title": "All Hallows' Eve",
+            "rank": 5.7,
+            "release_date": "2013-10-29",
+            "runtime": 82,
+            "summary": "While watching two children on Halloween night, a babysitter finds an old VHS tape in the kids' trick or treat bag. The tape features three tales of terror, all linked together by a murderous clown.",
+            "production": "Ruthless Pictures",
+            "country": "United States of America",
+            "poster_path": "/bSe8CBqK8HkbP6sqZWzcJfQV9Ci.jpg",
+            "is_adult": false,
+            "difficulty": 0.0,
+            "genres": [
+                27
+            ],
+            "otts": []
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 9,
+        "fields": {
+            "tmdb_id": 634649,
+            "title": "Spider-Man: No Way Home",
+            "rank": 7.957,
+            "release_date": "2021-12-15",
+            "runtime": 148,
+            "summary": "Peter Parker is unmasked and no longer able to separate his normal life from the high-stakes of being a super-hero. When he asks for help from Doctor Strange the stakes become even more dangerous, forcing him to discover what it truly means to be Spider-Man.",
+            "production": "Marvel Studios",
+            "country": "United States of America",
+            "poster_path": "/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg",
+            "is_adult": false,
+            "difficulty": 0.0,
+            "genres": [
+                28,
+                12,
+                878
+            ],
+            "otts": []
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 10,
+        "fields": {
+            "tmdb_id": 157336,
+            "title": "Interstellar",
+            "rank": 8.442,
+            "release_date": "2014-11-05",
+            "runtime": 169,
+            "summary": "The adventures of a group of explorers who make use of a newly discovered wormhole to surpass the limitations on human space travel and conquer the vast distances involved in an interstellar voyage.",
+            "production": "Legendary Pictures",
+            "country": "United Kingdom",
+            "poster_path": "/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
+            "is_adult": false,
+            "difficulty": 0.0,
+            "genres": [
+                12,
+                18,
+                878
+            ],
+            "otts": [
+                561,
+                83,
+                796
+            ]
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 11,
+        "fields": {
+            "tmdb_id": 346698,
+            "title": "Barbie",
+            "rank": 7.007,
+            "release_date": "2023-07-19",
+            "runtime": 114,
+            "summary": "Barbie and Ken are having the time of their lives in the colorful and seemingly perfect world of Barbie Land. However, when they get a chance to go to the real world, they soon discover the joys and perils of living among humans.",
+            "production": "LuckyChap Entertainment",
+            "country": "United Kingdom",
+            "poster_path": "/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg",
+            "is_adult": false,
+            "difficulty": 0.0,
+            "genres": [
+                35,
+                12
+            ],
+            "otts": []
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 12,
+        "fields": {
+            "tmdb_id": 299536,
+            "title": "Avengers: Infinity War",
+            "rank": 8.2,
+            "release_date": "2018-04-25",
+            "runtime": 149,
+            "summary": "As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all of reality. Everything the Avengers have fought for has led up to this moment - the fate of Earth and existence itself has never been more uncertain.",
+            "production": "Marvel Studios",
+            "country": "United States of America",
+            "poster_path": "/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
+            "is_adult": false,
+            "difficulty": 0.0,
+            "genres": [
+                12,
+                28,
+                878
+            ],
+            "otts": [
+                337
+            ]
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 13,
+        "fields": {
+            "tmdb_id": 385687,
+            "title": "Fast X",
+            "rank": 7.1,
+            "release_date": "2023-05-17",
+            "runtime": 142,
+            "summary": "Over many missions and against impossible odds, Dom Toretto and his family have outsmarted, out-nerved and outdriven every foe in their path. Now, they confront the most lethal opponent they've ever faced: A terrifying threat emerging from the shadows of the past who's fueled by blood revenge, and who is determined to shatter this family and destroy everything—and everyone—that Dom loves, forever.",
+            "production": "Universal Pictures",
+            "country": "United States of America",
+            "poster_path": "/fiVW06jE7z9YnO4trhaMEdclSiC.jpg",
+            "is_adult": false,
+            "difficulty": 0.0,
+            "genres": [
+                28,
+                80,
+                53
+            ],
+            "otts": []
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 14,
+        "fields": {
+            "tmdb_id": 7451,
+            "title": "xXx",
+            "rank": 5.9,
+            "release_date": "2002-08-09",
+            "runtime": 124,
+            "summary": "Xander Cage is your standard adrenaline junkie with no fear and a lousy attitude. When the US Government \"recruits\" him to go on a mission, he's not exactly thrilled. His mission: to gather information on an organization that may just be planning the destruction of the world, led by the nihilistic Yorgi.",
+            "production": "Columbia Pictures",
+            "country": "United States of America",
+            "poster_path": "/xeEw3eLeSFmJgXZzmF2Efww0q3s.jpg",
+            "is_adult": false,
+            "difficulty": 0.0,
+            "genres": [
+                28,
+                12,
+                53,
+                80
+            ],
+            "otts": [
+                97
+            ]
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 15,
+        "fields": {
+            "tmdb_id": 4247,
+            "title": "Scary Movie",
+            "rank": 6.4,
+            "release_date": "2000-07-07",
+            "runtime": 88,
+            "summary": "A familiar-looking group of teenagers find themselves being stalked by a more-than-vaguely recognizable masked killer! As the victims begin to pile up and the laughs pile on, none of your favorite scary movies escape the razor-sharp satire of this outrageously funny parody!",
+            "production": "Brad Grey Pictures",
+            "country": "United States of America",
+            "poster_path": "/fVQFPRuw3yWXojYDJvA5EoFjUOY.jpg",
+            "is_adult": false,
+            "difficulty": 0.0,
+            "genres": [
+                35
+            ],
+            "otts": []
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 16,
+        "fields": {
+            "tmdb_id": 14836,
+            "title": "Coraline",
+            "rank": 7.9,
+            "release_date": "2009-02-05",
+            "runtime": 100,
+            "summary": "Wandering her rambling old house in her boring new town, 11-year-old Coraline discovers a hidden door to a strangely idealized version of her life. In order to stay in the fantasy, she must make a frighteningly real sacrifice.",
+            "production": "Laika",
+            "country": "United States of America",
+            "poster_path": "/4jeFXQYytChdZYE9JYO7Un87IlW.jpg",
+            "is_adult": false,
+            "difficulty": 0.0,
+            "genres": [
+                16,
+                10751,
+                14
+            ],
+            "otts": []
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 17,
+        "fields": {
+            "tmdb_id": 122,
+            "title": "The Lord of the Rings: The Return of the King",
+            "rank": 8.5,
+            "release_date": "2003-12-17",
+            "runtime": 201,
+            "summary": "As armies mass for a final battle that will decide the fate of the world--and powerful, ancient forces of Light and Dark compete to determine the outcome--one member of the Fellowship of the Ring is revealed as the noble heir to the throne of the Kings of Men. Yet, the sole hope for triumph over evil lies with a brave hobbit, Frodo, who, accompanied by his loyal friend Sam and the hideous, wretched Gollum, ventures deep into the very dark heart of Mordor on his seemingly impossible quest to destroy the Ring of Power.​",
+            "production": "New Line Cinema",
+            "country": "New Zealand",
+            "poster_path": "/rCzpDGLbOoPwLjy3OAm5NUPOTrC.jpg",
+            "is_adult": false,
+            "difficulty": 0.0,
+            "genres": [
+                12,
+                14,
+                28
+            ],
+            "otts": [
+                81,
+                193,
+                796,
+                561
+            ]
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 18,
+        "fields": {
+            "tmdb_id": 626332,
+            "title": "Flamin' Hot",
+            "rank": 7.952,
+            "release_date": "2023-03-11",
+            "runtime": 99,
+            "summary": "The inspiring true story of Richard Montañez, the Frito Lay janitor who channeled his Mexican American heritage and upbringing to turn the iconic Flamin' Hot Cheetos into a snack that disrupted the food industry and became a global pop culture phenomenon.",
+            "production": "Franklin Entertainment",
+            "country": "United States of America",
+            "poster_path": "/a7KyFMPXj0iY4EoLq1PIGU1WJPw.jpg",
+            "is_adult": false,
+            "difficulty": 0.0,
+            "genres": [
+                18,
+                36
+            ],
+            "otts": [
+                337
+            ]
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 19,
+        "fields": {
+            "tmdb_id": 98,
+            "title": "Gladiator",
+            "rank": 8.2,
+            "release_date": "2000-05-04",
+            "runtime": 155,
+            "summary": "In the year 180, the death of emperor Marcus Aurelius throws the Roman Empire into chaos.  Maximus is one of the Roman army's most capable and trusted generals and a key advisor to the emperor.  As Marcus' devious son Commodus ascends to the throne, Maximus is set to be executed.  He escapes, but is captured by slave traders.  Renamed Spaniard and forced to become a gladiator, Maximus must battle to the death with other men for the amusement of paying audiences.",
+            "production": "Universal Pictures",
+            "country": "United Kingdom",
+            "poster_path": "/ty8TGRuvJLPUmAR1H1nRIsgwvim.jpg",
+            "is_adult": false,
+            "difficulty": 0.0,
+            "genres": [
+                28,
+                18,
+                12
+            ],
+            "otts": [
+                8,
+                97,
+                356,
+                1796
+            ]
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 20,
+        "fields": {
+            "tmdb_id": 671,
+            "title": "Harry Potter and the Philosopher's Stone",
+            "rank": 7.9,
+            "release_date": "2001-11-16",
+            "runtime": 152,
+            "summary": "Harry Potter has lived under the stairs at his aunt and uncle's house his whole life. But on his 11th birthday, he learns he's a powerful wizard—with a place waiting for him at the Hogwarts School of Witchcraft and Wizardry. As he learns to harness his newfound powers with the help of the school's kindly headmaster, Harry uncovers the truth about his parents' deaths—and about the villain who's to blame.",
+            "production": "Warner Bros. Pictures",
+            "country": "United Kingdom",
+            "poster_path": "/wuMc08IPKEatf9rnMNXvIDxqP4W.jpg",
+            "is_adult": false,
+            "difficulty": 0.0,
+            "genres": [
+                12,
+                14
+            ],
+            "otts": [
+                356
+            ]
+        }
+    }
+]
