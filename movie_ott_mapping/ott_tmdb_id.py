@@ -3,7 +3,7 @@ import requests
 import csv
 import time
 
-API_KEY = '39c9908752032848483d2c4bbb58a1ec'
+API_KEY = ''
 API_URL = 'https://api.themoviedb.org/3/movie/{tmdb_id}/watch/providers?api_key='
 
 csv_file_path = 'movie_model.csv'

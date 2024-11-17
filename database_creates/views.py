@@ -9,7 +9,7 @@ import requests
 import pandas as pd
 
 # TMDB API 키 설정
-API_KEY = "76579a872d47b39b4c1aae95895e2a3e"
+API_KEY = ""
 
 # TMDB API URL 설정
 BASE_URL = "https://api.themoviedb.org/3"
