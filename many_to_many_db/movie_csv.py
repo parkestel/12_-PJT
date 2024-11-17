@@ -1,7 +1,7 @@
 import csv
 import json
 
-API_KEY = '39c9908752032848483d2c4bbb58a1ec'
+API_KEY = ''
 # CSV 파일 경로
 csv_file_path = 'movie_model.csv'
 json_file_path = 'movies.json'
