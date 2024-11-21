@@ -1,0 +1,173 @@
+[
+{
+    "model": "movies.ott",
+    "pk": 1,
+    "fields": {
+        "tmdb_id": 337,
+        "name": "Disney Plus",
+        "logo_path": "/97yvRBw1GzX7fXprcF80er19ot.jpg"
+    }
+},
+{
+    "model": "movies.ott",
+    "pk": 2,
+    "fields": {
+        "tmdb_id": 356,
+        "name": "wavve",
+        "logo_path": "/hPcjSaWfMwEqXaCMu7Fkb529Dkc.jpg"
+    }
+},
+{
+    "model": "movies.ott",
+    "pk": 3,
+    "fields": {
+        "tmdb_id": 97,
+        "name": "Watcha",
+        "logo_path": "/5gmEivxOGPdq4Afpq1f8ktLtEW1.jpg"
+    }
+},
+{
+    "model": "movies.ott",
+    "pk": 4,
+    "fields": {
+        "tmdb_id": 8,
+        "name": "Netflix",
+        "logo_path": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
+    }
+},
+{
+    "model": "movies.ott",
+    "pk": 5,
+    "fields": {
+        "tmdb_id": 1796,
+        "name": "Netflix basic with Ads",
+        "logo_path": "/kICQccvOh8AIBMHGkBXJ047xeHN.jpg"
+    }
+},
+{
+    "model": "movies.ott",
+    "pk": 6,
+    "fields": {
+        "tmdb_id": 119,
+        "name": "Amazon Prime Video",
+        "logo_path": "/dQeAar5H991VYporEjUspolDarG.jpg"
+    }
+},
+{
+    "model": "movies.ott",
+    "pk": 7,
+    "fields": {
+        "tmdb_id": 701,
+        "name": "FilmBox+",
+        "logo_path": "/fbveJTcro9Xw2KuPIIoPPePHiwy.jpg"
+    }
+},
+{
+    "model": "movies.ott",
+    "pk": 8,
+    "fields": {
+        "tmdb_id": 350,
+        "name": "Apple TV Plus",
+        "logo_path": "/2E03IAZsX4ZaUqM7tXlctEPMGWS.jpg"
+    }
+},
+{
+    "model": "movies.ott",
+    "pk": 9,
+    "fields": {
+        "tmdb_id": 692,
+        "name": "Cultpix",
+        "logo_path": "/uauVx3dGWt0GICqdMCBYJObd3Mo.jpg"
+    }
+},
+{
+    "model": "movies.ott",
+    "pk": 10,
+    "fields": {
+        "tmdb_id": 567,
+        "name": "True Story",
+        "logo_path": "/aRPDQvVcpeY07sjI6lAALMCL0ti.jpg"
+    }
+},
+{
+    "model": "movies.ott",
+    "pk": 11,
+    "fields": {
+        "tmdb_id": 11,
+        "name": "MUBI",
+        "logo_path": "/fj9Y8iIMFUC6952HwxbGixTQPb7.jpg"
+    }
+},
+{
+    "model": "movies.ott",
+    "pk": 12,
+    "fields": {
+        "tmdb_id": 309,
+        "name": "Sun Nxt",
+        "logo_path": "/6KEQzITx2RrCAQt5Nw9WrL1OI8z.jpg"
+    }
+},
+{
+    "model": "movies.ott",
+    "pk": 13,
+    "fields": {
+        "tmdb_id": 546,
+        "name": "WOW Presents Plus",
+        "logo_path": "/6dET59jNU0ADysghEjl8Unuc7Ca.jpg"
+    }
+},
+{
+    "model": "movies.ott",
+    "pk": 14,
+    "fields": {
+        "tmdb_id": 569,
+        "name": "DocAlliance Films",
+        "logo_path": "/vbXJBJVv3u3YWt6ml0l0ldDblXT.jpg"
+    }
+},
+{
+    "model": "movies.ott",
+    "pk": 15,
+    "fields": {
+        "tmdb_id": 554,
+        "name": "BroadwayHD",
+        "logo_path": "/6IYZ4NjwPikxN7J9cfSmuyeHeMm.jpg"
+    }
+},
+{
+    "model": "movies.ott",
+    "pk": 16,
+    "fields": {
+        "tmdb_id": 444,
+        "name": "Dekkoo",
+        "logo_path": "/x6nRFzF32hCzMHaVM4RHRo7lsgS.jpg"
+    }
+},
+{
+    "model": "movies.ott",
+    "pk": 17,
+    "fields": {
+        "tmdb_id": 100,
+        "name": "GuideDoc",
+        "logo_path": "/eKVmLFHW5PeNhuR7Nedd8OIxW2M.jpg"
+    }
+},
+{
+    "model": "movies.ott",
+    "pk": 18,
+    "fields": {
+        "tmdb_id": 190,
+        "name": "Curiosity Stream",
+        "logo_path": "/oR1aNm1Qu9jQBkW4VrGPWhqbC3P.jpg"
+    }
+},
+{
+    "model": "movies.ott",
+    "pk": 19,
+    "fields": {
+        "tmdb_id": 551,
+        "name": "Magellan TV",
+        "logo_path": "/mSH24WQcRDJ2fsL5iucXqqRnSRb.jpg"
+    }
+}
+]
